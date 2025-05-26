@@ -23,6 +23,7 @@ class _MyAppState extends State<MyApp> {
         appBar: AppBar(
           title: Text("IOT APP 08"),
           backgroundColor: Colors.blue,
+          foregroundColor: Colors.white,
           centerTitle: true,
         ),
         body: Center(
